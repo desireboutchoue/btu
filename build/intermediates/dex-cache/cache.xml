@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Dez\Desktop\android\TreasurehuntFailed\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Dez\Desktop\android\TreasureHuntFinal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\Dez\Desktop\android\TreasurehuntFailed\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b3494bc5273de6a3c8a597351dbd59f83ee6f29e\classes.dex" />
+        <dex dex="C:\Users\Dez\Desktop\android\TreasureHuntFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_96bfc2b4d2e826786808daab1162aef372b190b5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Dez\Desktop\android\TreasurehuntFailed\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Dez\Desktop\android\TreasureHuntFinal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="dcf6058496658e7eed8b25e476088465dcecee46">
-        <dex dex="C:\Users\Dez\Desktop\android\TreasurehuntFailed\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3b81f38b419f7ab57623d663d55d5fec85fe129d\classes.dex" />
+        sha1="e1c909b07834a8b91d3be9315f94abfba82a6870">
+        <dex dex="C:\Users\Dez\Desktop\android\TreasureHuntFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9429836fbfdbd59d248734376eb5f43d644d28a6\classes.dex" />
     </item>
 
 </items>
